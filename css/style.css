@@ -1,0 +1,8 @@
+/*Para facilitar a organização, o estilo de cada parte do site foi feito em um arquivo separado e importados aqui nesse arquivo .css geral.*/
+@import "./global.css";
+@import "./header.css";
+@import "./introducao.css";
+@import "./sobre.css";
+@import "./portfolio.css";
+@import "./formacao.css";
+@import "./footer.css";
